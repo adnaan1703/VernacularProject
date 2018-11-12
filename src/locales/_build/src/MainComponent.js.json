@@ -1,9 +1,9 @@
 {
-  "Hello World this is the main component!": {
+  "Hello {item}": {
     "origin": [
       [
         "src/MainComponent.js",
-        11
+        30
       ]
     ]
   }

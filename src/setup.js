@@ -7,7 +7,7 @@ import frMessages from './locales/fr/messages.js';
 export const i18nEn = setupI18n({
  language: 'en',
  catalogs: {
-   en: enMessages,
+   en: enMessages,   
  }
 });
 

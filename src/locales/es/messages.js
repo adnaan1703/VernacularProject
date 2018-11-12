@@ -1,1 +1,1 @@
-/* eslint-disable */module.exports={languageData:{"plurals":function(n,ord){if(ord)return"other";return n==1?"one":"other"}},messages:{"Hello World this is the main component!":"Hola Mundo"}};
+/* eslint-disable */module.exports={languageData:{"plurals":function(n,ord){if(ord)return"other";return n==1?"one":"other"}},messages:{"Hello {item}":function(a){return["Hola ",a("item")]}}};
