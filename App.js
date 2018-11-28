@@ -1,10 +1,10 @@
 import React from 'react';
-import MainComponent from './src/MainComponent';
+import MainComponent2 from './src/MainComponent2';
 
 export default class App extends React.Component {
   render() {
     return (
-      <MainComponent/>
+      <MainComponent2/>
     );
   }
 }
